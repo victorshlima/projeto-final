@@ -9,7 +9,7 @@ import static br.com.infnet.projetofinal.calculadora.mensagens.MensagensEnum.*;
 public class CalculadoraMain {
 
     public static void main(String[] args) {
-        
+
         PontoCartesiano pontoCartesianoIncial = new PontoCartesiano();
         PontoCartesiano pontoCartesianoFinal = new PontoCartesiano();
 
