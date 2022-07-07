@@ -1,4 +1,4 @@
-package br.com.infnet.projetofinal.calculadora.dto;
+package br.com.infnet.projetofinal.calculadora.modelos;
 
 public class PontoCartesiano {
 

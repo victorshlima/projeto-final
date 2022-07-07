@@ -1,7 +1,7 @@
-package br.com.infnet.projetofinal.empresaAcme.service;
+package br.com.infnet.projetofinal.empresaAcme.servicos;
 
-import br.com.infnet.projetofinal.empresaAcme.models.Engenheiro;
-import br.com.infnet.projetofinal.empresaAcme.models.Qualificacoes;
+import br.com.infnet.projetofinal.empresaAcme.modelos.Engenheiro;
+import br.com.infnet.projetofinal.empresaAcme.modelos.Qualificacoes;
 
 public class EngengeiroServicos {
 

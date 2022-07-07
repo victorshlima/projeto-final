@@ -1,7 +1,7 @@
 package br.com.infnet.projetofinal.calculadora;
 
 import br.com.infnet.projetofinal.calculadora.calculos.PlanoCartesiano;
-import br.com.infnet.projetofinal.calculadora.dto.PontoCartesiano;
+import br.com.infnet.projetofinal.calculadora.modelos.PontoCartesiano;
 import br.com.infnet.projetofinal.calculadora.mensagens.Utils;
 
 import static br.com.infnet.projetofinal.calculadora.mensagens.MensagensEnum.*;

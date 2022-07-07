@@ -1,4 +1,4 @@
-package br.com.infnet.projetofinal.empresaAcme.models;
+package br.com.infnet.projetofinal.empresaAcme.modelos;
 
 public class Curso {
 

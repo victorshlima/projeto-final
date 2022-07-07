@@ -1,6 +1,6 @@
-package br.com.infnet.projetofinal.empresaAcme.service;
+package br.com.infnet.projetofinal.empresaAcme.servicos;
 
-import br.com.infnet.projetofinal.empresaAcme.models.Vendedor;
+import br.com.infnet.projetofinal.empresaAcme.modelos.Vendedor;
 
 public class VendedorServicos {
 

@@ -1,6 +1,6 @@
 package br.com.infnet.projetofinal.calculadora.calculos;
 
-import br.com.infnet.projetofinal.calculadora.dto.PontoCartesiano;
+import br.com.infnet.projetofinal.calculadora.modelos.PontoCartesiano;
 
 public class PlanoCartesiano {
 
